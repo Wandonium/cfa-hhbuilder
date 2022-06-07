@@ -54,3 +54,6 @@ the rate area for that ZIP code. A ZIP code can also be in more than one rate ar
 and should be left blank.
 
 We'll want to compile your code from source and run it from a Unix-like command line, so please include the complete instructions for doing so in a COMMENTS file.
+
+## How to Run the App
+Check the COMMENTS.txt file
